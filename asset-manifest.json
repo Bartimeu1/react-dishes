@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dishes/static/css/main.411820ee.css",
+    "main.js": "/react-dishes/static/js/main.deb8b81a.js",
+    "static/media/logo.svg": "/react-dishes/static/media/logo.cf6d3b6be905864076d6bda85444ef62.svg",
+    "static/media/ProximaNova-Regular.woff": "/react-dishes/static/media/ProximaNova-Regular.3d59ce3e9d6f49acb285.woff",
+    "static/media/ProximaNova-Bold.woff": "/react-dishes/static/media/ProximaNova-Bold.7bbe1c8847f08b1633a0.woff",
+    "static/media/ProximaNova-Extrabld.woff": "/react-dishes/static/media/ProximaNova-Extrabld.c611b0015a7f48f62cfc.woff",
+    "static/media/empty.png": "/react-dishes/static/media/empty.e70dcf4e3fd40224b817.png",
+    "static/media/emoji.svg": "/react-dishes/static/media/emoji.efbdbde5b1a378d96e867e6e52edc0f8.svg",
+    "static/media/cartDark.svg": "/react-dishes/static/media/cartDark.dcd5168086a25b3307ba9f5524ca6e70.svg",
+    "static/media/cart.svg": "/react-dishes/static/media/cart.d05720f2b474db2145233cd2ce1d4e91.svg",
+    "static/media/trash.svg": "/react-dishes/static/media/trash.ceafcffb34cece0b1462c3505b170d88.svg",
+    "index.html": "/react-dishes/index.html",
+    "main.411820ee.css.map": "/react-dishes/static/css/main.411820ee.css.map",
+    "main.deb8b81a.js.map": "/react-dishes/static/js/main.deb8b81a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.411820ee.css",
+    "static/js/main.deb8b81a.js"
+  ]
+}
